@@ -92,7 +92,7 @@ python exp2.py
 
 ---
 
-## 📊 Key Concepts Covered
+## Key Concepts Covered
 
 * Qubits and Registers
 * Quantum Gates
@@ -103,15 +103,11 @@ python exp2.py
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 
 This provides hands-on experience with quantum computing concepts and demonstrates how quantum algorithms differ from classical approaches.
 
 
 
 
----
 
-## 👨‍💻 Author
-
-Your Name
